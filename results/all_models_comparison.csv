@@ -1,0 +1,10 @@
+Model,Type,Accuracy,Precision,Recall,F1-Score
+clinicalbert,Transfer Learning,97.73,93.33,66.67,77.78
+roberta_base,Transfer Learning,96.32,83.33,47.62,60.61
+biobert_v1.1,Transfer Learning,94.05,50.0,28.57,36.36
+BiLSTM,Deep Learning,90.5,0.2,0.82,0.32
+CNN,Deep Learning,89.25,0.16,0.82,0.26
+Random Forest,Machine Learning,81.64,16.35,77.27,26.98
+SVM,Machine Learning,80.24,15.93,81.82,26.67
+Decision Tree,Machine Learning,77.45,10.43,54.55,17.52
+LSTM,Deep Learning,50.0,0.04,1.0,0.08

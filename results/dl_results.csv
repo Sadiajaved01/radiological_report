@@ -1,0 +1,4 @@
+Model,Balanced Acc (%),Precision,Recall,F1-Score
+CNN,89.25,0.1552,0.8182,0.2609
+LSTM,50.0,0.0439,1.0,0.0841
+BiLSTM,90.5,0.1978,0.8182,0.3186

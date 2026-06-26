@@ -1,0 +1,4 @@
+Model,Type,Accuracy,Precision,Recall,F1_Score
+Decision Tree,ML,77.45,10.43,54.55,17.52
+Random Forest,ML,81.64,16.35,77.27,26.98
+SVM,ML,80.24,15.93,81.82,26.67

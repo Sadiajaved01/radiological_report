@@ -1,0 +1,19 @@
+# AI Models
+models/
+
+# Databases
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Environment files
+.env
