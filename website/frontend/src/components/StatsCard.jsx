@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function StatsCard({ title, value, color = "#2563eb" }) {
   return (
     <div
