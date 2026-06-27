@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-
+import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import ModelChart from "../components/ModelChart";
