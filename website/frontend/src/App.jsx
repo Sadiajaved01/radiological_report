@@ -7,7 +7,7 @@ import Home from "./pages/Home";
 
 import Dashboard from "./pages/Dashboard";
 import Classify from "./pages/Classify";
-import PdfUpload from "./pages/PdfUpload";
+import PdfUpload from "./pages/PDFUpload";
 import Comparison from "./pages/Comparison";
 import History from "./pages/History";
 import Analytics from "./pages/Analytics";
